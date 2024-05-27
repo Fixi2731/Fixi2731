@@ -2,6 +2,7 @@
 - Me gustan las matemáticas
 - Actualmente estoy estudiando sobre cibersiguridad
 - Quiero entrar a Ciencias de la Computación
+- Tengo 17 años
 <!--
 **Fixi2731/Fixi2731** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
